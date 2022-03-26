@@ -1,0 +1,13 @@
+.container{
+    width: auto;
+    height: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;  
+    /* background-color: #F2F2F7;    */
+
+}
+.profile-name{
+    color: black;
+}
